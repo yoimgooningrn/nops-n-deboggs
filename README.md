@@ -10,5 +10,5 @@ how to use:
 
 
 if you want to learn debugging and reverse engineering there are some linked
-fils in this repository that you can use to practice
+files in this repository that you can use to practice
 
