@@ -9,6 +9,4 @@ how to use:
 
 
 
-if you want to learn debugging and reverse engineering there are some linked
-files in this repository that you can use to practice
-
+if you want to learn debugging and reverse engineering go to crackmes.one and you will find some files
